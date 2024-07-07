@@ -1,7 +1,7 @@
 <table>
 <tr>
 <td>
-<img  src='./readme/logo.png' height="65px" />
+<img  src='./readme/logo.png' height="65px" border="0" />
 </td>
 <td>
   <div style="font-size:30px">
