@@ -1,16 +1,6 @@
-<div>
-  <div style="float: left;padding-right:14px;" >
-    <img  src='./readme/logo.png' height="68px"   />
-  </div> 
-  <div >
-    <div style="font-size:30px">
-    ERROR DOG
-    </div>
-    <div style="font-size:16px">
-    Assistant that helps you store Call Stack in error value.
-    </div>
-  </div>
-</div>
+<img src="./readme/logo.png" alt="Sunset over a Tranquil Lake">
+
+## ERROR DOG :: Assistant that helps you store Call Stack in error value.
 
 ### Example
 
