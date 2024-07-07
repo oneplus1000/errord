@@ -1,4 +1,4 @@
-<table cellspacing="0" cellpadding="0" >
+<table cellspacing="0" cellpadding="0" style="border: none;" >
 <tr>
 <td>
 <img  src='./readme/logo.png' height="65px"   />
