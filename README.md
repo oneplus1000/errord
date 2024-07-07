@@ -1,7 +1,7 @@
-<table cellspacing="0" cellpadding="0" style="border: none;" >
+<table cellspacing="0" cellpadding="0" style="border: none!important" >
 <tr>
 <td>
-<img  src='./readme/logo.png' height="65px"   />
+<img  src='./readme/logo.png' height="68px"   />
 </td>
 <td>
   <div style="font-size:30px">
