@@ -1,4 +1,18 @@
-## Error Dog : Assistant that helps you store Call Stack in error value.
+<table>
+<tr>
+<td>
+<img  src='./readme/logo.png' height="65px" />
+</td>
+<td>
+  <div style="font-size:30px">
+  ERROR DOG
+  </div>
+  <div style="font-size:16px">
+  Assistant that helps you store Call Stack in error value.
+  </div>
+</td>
+</tr>
+</table>
 
 ### Example
 
