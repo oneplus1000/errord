@@ -1,18 +1,16 @@
-<table cellspacing="0" cellpadding="0" style="border: none!important" >
-<tr>
-<td>
-<img  src='./readme/logo.png' height="68px"   />
-</td>
-<td>
-  <div style="font-size:30px">
-  ERROR DOG
+<div>
+  <div style="float: left;padding-right:14px;" >
+    <img  src='./readme/logo.png' height="68px"   />
+  </div> 
+  <div >
+    <div style="font-size:30px">
+    ERROR DOG
+    </div>
+    <div style="font-size:16px">
+    Assistant that helps you store Call Stack in error value.
+    </div>
   </div>
-  <div style="font-size:16px">
-  Assistant that helps you store Call Stack in error value.
-  </div>
-</td>
-</tr>
-</table>
+</div>
 
 ### Example
 
