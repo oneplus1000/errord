@@ -2,6 +2,12 @@
 
 ## ERROR DOG :: Assistant that helps you store Call Stack in error value.
 
+Requires minimum go version 1.18.0.
+
+```bash
+go get github.com/oneplus1000/errord
+```
+
 ### Example
 
 ```GO
