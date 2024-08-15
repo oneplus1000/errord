@@ -10,6 +10,10 @@ go get github.com/oneplus1000/errord
 
 ### Example
 
+To display a StackTrace when an error occurs, you can use the `github.com/oneplus1000/errord` package.
+
+Here's an example:
+
 ```GO
 package main
 
@@ -45,3 +49,7 @@ func makeError02() error {
 
 
 ```
+
+### Result
+
+<img src="./readme/code_ex1.png" width="80%" >
